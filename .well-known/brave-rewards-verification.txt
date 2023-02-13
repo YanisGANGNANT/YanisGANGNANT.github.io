@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pastis444.github.io
+Token: 1bbf23ea1a0d55a7224bcd91bc2f2b4e39faec8eb4ca3d228e6c3ecb70f55dab
